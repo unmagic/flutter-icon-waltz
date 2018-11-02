@@ -9,12 +9,12 @@ import 'package:flutter/widgets.dart';
 ///
 /// ```your pubspec.yaml
 /// dependencies:
-///  waltz_icon:
+///  icon-waltz:
 ///    git:
 ///     url: git://github.com:unmagic/flutter-icon-waltz.git
 /// ```
 ///
 class WaltzIcons {
-  ///<i class="material-icons md-36">360</i> &#x2014; material icon named "360".
+
   static const IconData clear = IconData(0xe601, fontFamily: 'GrandWaltzIcons');
 }
