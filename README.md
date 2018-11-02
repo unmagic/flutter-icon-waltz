@@ -1,7 +1,7 @@
 # icon_waltz
 
 A Flutter package that provides beautiful common Icons(SVG) .
-This Project is under
+This Project is not stable! Don't use.
 
 ## Getting Started
 
